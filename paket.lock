@@ -33,3 +33,6 @@ NUGET
       Fable.Core (>= 3.0)
       FSharp.Core (>= 4.7)
     FSharp.Core (4.7)
+    Thoth.Json (3.5)
+      Fable.Core (>= 3.1.4)
+      FSharp.Core (>= 4.7)

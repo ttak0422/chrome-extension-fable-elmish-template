@@ -5,3 +5,4 @@ framework: netstandard2.1
 
 nuget Fable.Core
 nuget Fable.Elmish.React
+nuget Thoth.Json
