@@ -2,10 +2,6 @@ namespace Shared
 
 open Thoth.Json
 
-// TODO
-// popupではカウントのインクリメントのみ
-// optionではshareから拝借したcounterを使って初期値を改変
-// 初期値はパーミッションを取得しストレージに保存
 type Counter =
     { Count: int }
 
